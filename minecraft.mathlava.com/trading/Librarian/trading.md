@@ -17,7 +17,7 @@ V|17
 :heavy_check_mark:|爆発耐性IV|14
 :heavy_check_mark:|棘の鎧III|11
 　|水中歩行III|13
-　|水中呼吸III|
+　|水中呼吸III|13
 :heavy_check_mark:|水中採掘|5
 　|氷渡りII|
 ||
@@ -28,12 +28,12 @@ V|17
 　|火属性II|11
 　|ノックバックII|9
 :heavy_check_mark:|ドロップ増加III|11
-　|範囲ダメージ増加III|15
+:heavy_check_mark:|範囲ダメージ増加III|11
 ||
 　|射撃ダメージ増加V|19
 :heavy_check_mark:|パンチII|8
 :heavy_check_mark:|フレイム|5
-　|無限|7
+　:heavy_check_mark:|無限|5
 ||
 :heavy_check_mark:|拡散|5
 　|貫通IV|
@@ -45,8 +45,8 @@ V|17
 :heavy_check_mark:|召雷|5
 ||
 　|修繕|10
-　|耐久力III|12
-　|効率強化V|
+:heavy_check_mark:|耐久力III|11
+　|効率強化V|23
 :heavy_check_mark:|幸運III|11
 :heavy_check_mark:|シルクタッチ|5
 ||
