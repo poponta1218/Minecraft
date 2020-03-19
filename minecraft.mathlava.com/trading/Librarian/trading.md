@@ -33,7 +33,7 @@ V|17
 　|射撃ダメージ増加V|19
 :heavy_check_mark:|パンチII|8
 :heavy_check_mark:|フレイム|5
-　:heavy_check_mark:|無限|5
+:heavy_check_mark:|無限|5
 ||
 :heavy_check_mark:|拡散|5
 　|貫通IV|
